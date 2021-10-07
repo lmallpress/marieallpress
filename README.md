@@ -1,3 +1,3 @@
-# portfolio
+# portfolio: a work in progress...
 
 https://marieallpress.vercel.app/
