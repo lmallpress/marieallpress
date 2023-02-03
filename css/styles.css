@@ -3839,7 +3839,7 @@ img.u-pull-left {
     padding: 0 var(--vspace-1_25) var(--vspace-0_25);
 }
 
-.modal-popup__cat {
+.modal-popup__projects {
     list-style: none;
     margin-left: 0;
     font-size: var(--text-sm);
@@ -3849,7 +3849,7 @@ img.u-pull-left {
     position: relative;
 }
 
-.modal-popup__cat::before {
+.modal-popup__projects::before {
     content: "";
     display: block;
     height: calc(0.625 * var(--space));
@@ -3863,16 +3863,16 @@ img.u-pull-left {
     top: -0.15em;
 }
 
-.modal-popup__cat li {
+.modal-popup__projects li {
     display: inline;
     padding-left: 0;
 }
 
-.modal-popup__cat li::after {
+.modal-popup__projects li::after {
     content: ", ";
 }
 
-.modal-popup__cat li:last-child::after {
+.modal-popup__projects li:last-child::after {
     display: none;
 }
 
