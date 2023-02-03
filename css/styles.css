@@ -3825,6 +3825,10 @@ img.u-pull-left {
     margin-bottom: var(--vspace-0_75);
 }
 
+.modal-06 hidden img {
+    opacity: 0.2;
+}
+
 .modal-popup h5 {
     font-family: var(--font-1);
     font-size: var(--text-size);
